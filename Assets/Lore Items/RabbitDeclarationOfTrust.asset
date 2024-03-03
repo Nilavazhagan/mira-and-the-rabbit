@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aacf3a68ceae64478ce24ce6c6b32d1, type: 3}
+  m_Name: RabbitDeclarationOfTrust
+  m_EditorClassIdentifier: 
+  title: Rabbit's Declaration of Trust
+  description: "Mira, it\u2019s hard for me to say this out loud so I have to admit
+    it on paper. It\u2019s me, Blake. This storybook we\u2019re trapped in seems
+    to be trying to keep me here. If you can escape on your own, I won\u2019t blame
+    you."

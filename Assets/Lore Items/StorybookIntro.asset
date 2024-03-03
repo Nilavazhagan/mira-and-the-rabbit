@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aacf3a68ceae64478ce24ce6c6b32d1, type: 3}
+  m_Name: StorybookIntro
+  m_EditorClassIdentifier: 
+  title: Storybook
+  description: "Once upon a time, in a land of seasons far away there was a lonely
+    child. They felt as though time was stopped, because their country\u2019s seasons
+    never changed. Each part of the land represented a different season, but would
+    never move forward. There was Eternal Summer, Perpetual Autumn, Ceaseless Winter,
+    and yet, there was no Spring to be found\u2026\n"

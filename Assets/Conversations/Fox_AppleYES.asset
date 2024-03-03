@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc788178276f3f846b29bebbd978a843, type: 3}
+  m_Name: Fox_AppleYES
+  m_EditorClassIdentifier: 
+  dialogues:
+  - charcterType: 0
+    sentence: Didja find it yet?
+  - charcterType: 1
+    sentence: I think I did!
+  - charcterType: 0
+    sentence: Wow, that was fast. This next one will be waaaaay harder!
+  - charcterType: 1
+    sentence: "Oh, we\u2019re playing again?"
+  - charcterType: 0
+    sentence: "Unless you\u2019re scared you\u2019ll lose!"
+  - charcterType: 1
+    sentence: "I don\u2019t think so."
+  - charcterType: 0
+    sentence: Then, I spy with my little eye, something gold!

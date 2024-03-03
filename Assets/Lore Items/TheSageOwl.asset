@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aacf3a68ceae64478ce24ce6c6b32d1, type: 3}
+  m_Name: TheSageOwl
+  m_EditorClassIdentifier: 
+  title: The Sage Owl
+  description: In the Autumnal region, a wise owl was known far and wide. He would
+    travel throughout the kingdom to give his wisdom. As he grew older he fell ill.
+    He determined that none should attempt to cross the Winterlands as he once did,
+    sealing it off from Autumn with three magical seals.

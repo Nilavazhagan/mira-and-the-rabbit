@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc788178276f3f846b29bebbd978a843, type: 3}
+  m_Name: Fox_CoinYES
+  m_EditorClassIdentifier: 
+  dialogues:
+  - charcterType: 1
+    sentence: "I\u2019ve got it!"
+  - charcterType: 0
+    sentence: No way! You found my buried treasure! Ugh.
+  - charcterType: 0
+    sentence: You can keep the coin and the apple since you won fair and square.
+  - charcterType: 1
+    sentence: Really? Thanks.
+  - charcterType: 0
+    sentence: "But you can\u2019t pass me until you solve my riddle!"
+  - charcterType: 1
+    sentence: "Alright, what\u2019s the riddle?"
+  - charcterType: 0
+    sentence: "Come back to me in a bit. It\u2019s not like I have to think of it
+      or anything!"
+  - charcterType: 1
+    sentence: Of course.
+  - charcterType: 0
+    sentence: Oh, but take this! This is my certificate that you beat me in I Spy!

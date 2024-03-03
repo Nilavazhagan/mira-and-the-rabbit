@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc788178276f3f846b29bebbd978a843, type: 3}
+  m_Name: Fox_IntroConversation
+  m_EditorClassIdentifier: 
+  dialogues:
+  - charcterType: 0
+    sentence: Hey wanna play I Spy?
+  - charcterType: 1
+    sentence: "You mean that game where you spy something with your little eye? I\u2019m
+      pretty good at that!"
+  - charcterType: 0
+    sentence: Okay well you have to bring whatever I spy back to me for it to count.
+      Ready, set, I spy with my little eye something red!
